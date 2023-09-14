@@ -1,5 +1,5 @@
-- 👋 Hi, there Aliaksandr Hrankib
+- 👋 Hi, there Aliaksandr Hrankin
 - 👀 I’m interested in coding, Osint, infosec
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Rust, Lua and pentest
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
