@@ -1,4 +1,4 @@
-- 👋 Hi, there Aliaksandr Hrankin
+- 👋 Hi, there/ I am Alexander Grankin
 - 👀 I’m interested in coding, Osint, infosec
 - 🌱 I’m currently learning Rust, Lua and pentest
 - 💞️ I’m looking to collaborate on ...
