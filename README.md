@@ -1,5 +1,5 @@
 - 👋 Hi, there/ I am Alexander Grankin
-- 👀 I’m interested in coding, Osint, infosec
-- 🌱 I’m currently learning Rust, Lua and pentest
+- 👀 I’m interested in coding, Osint, infosec (Offensive)
+- 🌱 I’m currently doing something
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
